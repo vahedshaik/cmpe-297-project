@@ -64,6 +64,9 @@ ________________________________________________________________________________
  https://huggingface.co/transformers/
 
  https://huggingface.co/human-centered-summarization/financial-summarization-pegasus
+ _______________________________________________________________________________________________________________________________________________________
+
+**Project demo video link:** https://drive.google.com/file/d/1wjQ1bfVBx-e4IUPS_ZE0TED-S_uJ_e8N/view?usp=sharing
 
  
 
